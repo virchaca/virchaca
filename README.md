@@ -1,17 +1,17 @@
 # VirginiaAlvarezPerez
 
-# HI THERE!
+# 🏜️ HI THERE! 😎
 I am Virginia, Adalaber Junior Full Stack developer, and I am looking to develop my new and future skills through a job where I can find a place to grow and fly in the world of technology. <br>
 
-(https://github.com/virchaca/virchaca/assets/139872250/d0c12ecb-833d-4bb4-86e6-9617f0fc696e)
-My day to day:
+
+🗓️ My day to day:
 In active search of my opportunity in the TECH world 🔍
-Enhance my knowledge and improve my coding skills using online resources.
+Enhance my knowledge and improve my coding skills using online resources. 🧠 
 Learn new languages, frameworks and technologies in web development.
 Creating my personal portfolio with new ideas.
 
-🧠 Technologies:
-<h3 dir="auto"><a id="user-content--tech-stack--tools" class="anchor" aria-hidden="true" tabindex="-1" href="#-tech-stack--tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>💻 Tech stack &amp; tools:</h3>
+
+<h3 dir="auto"><a id="user-content--tech-stack--tools" class="anchor" aria-hidden="true" tabindex="-1" href="#-tech-stack--tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>💻 Technologies:</h3>
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/94b6a5e7017025d1932776c584074373713e74688a5a34cc95fb306117fadae8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666c6174266c6f676f2d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d6f72616e6765"><img src="https://camo.githubusercontent.com/94b6a5e7017025d1932776c584074373713e74688a5a34cc95fb306117fadae8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666c6174266c6f676f2d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d6f72616e6765" alt="HTML5" data-canonical-src="https://img.shields.io/badge/HTML5-E34F26?style=flat&amp;logo-square&amp;logo=html5&amp;logoColor=white&amp;labelColor=orange" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f2a69657352dfaa137c16a7f49918729b4a518af295cc15f9720cea02d1b0cb7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666c6174266c6f676f2d737175617265266c6f676f3d63737333266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d326538626366"><img src="https://camo.githubusercontent.com/f2a69657352dfaa137c16a7f49918729b4a518af295cc15f9720cea02d1b0cb7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666c6174266c6f676f2d737175617265266c6f676f3d63737333266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d326538626366" alt="CSS3" data-canonical-src="https://img.shields.io/badge/CSS3-1572B6?style=flat&amp;logo-square&amp;logo=css3&amp;logoColor=white&amp;labelColor=2e8bcf" style="max-width: 100%;"></a>
