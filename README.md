@@ -1,11 +1,13 @@
 <h1 align="center"> VirginiaAlvarezPerez </h1> 
 
 
+<div> 
 <h2 align="center">
-  ** 🏜️ HI THERE!😎 **  <span >
+  ** 🏜️ HI THERE!😎 ** </h2> <span >
   <img src="https://github.com/virchaca/virchaca/assets/139872250/d04701cd-2bb9-4752-8c8d-15f92d3fdb46" alt="funnyProgrammer" width="50%">
 </span>
- </h2>
+</div>
+ 
 
 
 From Biologist 🍃 to <strong>Junior Full Stack developer!!!</strong> I am looking to **develop** my new **programming skills** through a job where I can find a place 🗺️ to grow and fly 🚀 in the world of technology. <br>
@@ -57,7 +59,7 @@ and I learned and adaptated to the sector.
 [![](https://visitcount.itsvg.in/api?id=Virginia&label=Profile%20Views&color=3&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 
-
+<!-- 
 <p align="right">
   <img src="https://github.com/virchaca/virchaca/assets/139872250/d04701cd-2bb9-4752-8c8d-15f92d3fdb46" alt="funnyProgrammer">
-</p>
+</p> -->
