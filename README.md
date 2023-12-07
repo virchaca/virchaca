@@ -3,7 +3,7 @@
 # HI THERE!
 I am Virginia, Adalaber Junior Full Stack developer, and I am looking to develop my new and future skills through a job where I can find a place to grow and fly in the world of technology. <br>
 
-![image](https://github.com/virchaca/virchaca/assets/139872250/d0c12ecb-833d-4bb4-86e6-9617f0fc696e)
+(https://github.com/virchaca/virchaca/assets/139872250/d0c12ecb-833d-4bb4-86e6-9617f0fc696e)
 My day to day:
 In active search of my opportunity in the TECH world 🔍
 Enhance my knowledge and improve my coding skills using online resources.
