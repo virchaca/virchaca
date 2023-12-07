@@ -53,5 +53,8 @@ and I learned and adaptated to the sector.
 
 [![](https://visitcount.itsvg.in/api?id=Virginia&label=Profile%20Views&color=3&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
- let's Code!!! ![funnyProgrammer](https://github.com/virchaca/virchaca/assets/139872250/d04701cd-2bb9-4752-8c8d-15f92d3fdb46)
 
+
+<p align="right">
+  <img src="https://github.com/virchaca/virchaca/assets/139872250/d04701cd-2bb9-4752-8c8d-15f92d3fdb46" alt="funnyProgrammer">
+</p>
