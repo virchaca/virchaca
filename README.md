@@ -1,17 +1,28 @@
 # VirginiaAlvarezPerez
 
-# 🏜️ HI THERE! 😎
-I am Virginia, Adalaber Junior Full Stack developer, and I am looking to develop my new and future skills through a job where I can find a place to grow and fly in the world of technology. <br>
+<h2 align="center">
+  ** 🏜️ HI THERE!😎 ** </h2>
+
+
+From Biologist 🍃 to <strong>Junior Full Stack developer!!!</strong> I am looking to **develop** my new and future **programming skills** through a job where I can find a place 🗺️ to grow and fly 🚀 in the world of technology. <br>
+
+<p align="center">
+I moved to <strong>London</strong> without knowing English, and I managed to learn the language and work in labs. 🎉
+Back to Spain I started working in quality advice/consulting 🤓, a completely new field for me,
+and I learned and adaptated to the sector.
+✔️Now I really want to <strong>find a job where I can learn and develop my new skills in web programming</strong>.✔️ <br>
+✔️ I speak fluent 💂‍♀️<strong>English</strong>💂‍♀️ and some 🧀 <strong>French</strong>🗼. ✔️
+</p>
 
 <h3 dir="auto"><a id="user-content--my-day-a-day" class="anchor" aria-hidden="true" tabindex="-1" href="#-my-day-a-day"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>🗓️ My day to day: </h3>
 
-In active search of my opportunity in the TECH world 🔍 <br>
-Enhance my knowledge and improve my coding skills using online resources. 🧠 <br>
-Learn new languages, frameworks and technologies in web development. <br>
-Creating my personal portfolio with new ideas. <br>
+- In active search of my opportunity in the TECH world 🔍 
+- Enhance my knowledge and improve my coding skills using online resources. 🧠 
+- Learn new languages, frameworks and technologies in web development. 🦾
+- Creating my personal portfolio with new ideas. 🪄 
 
 
-<h3 dir="auto"><a id="user-content--tech-stack--tools" class="anchor" aria-hidden="true" tabindex="-1" href="#-tech-stack--tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>💻 Technologies:</h3>
+<h3 dir="auto"><a id="user-content--Technologies" class="anchor" aria-hidden="true" tabindex="-1" href="#-Technologies"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>💻 Technologies:</h3>
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/94b6a5e7017025d1932776c584074373713e74688a5a34cc95fb306117fadae8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666c6174266c6f676f2d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d6f72616e6765"><img src="https://camo.githubusercontent.com/94b6a5e7017025d1932776c584074373713e74688a5a34cc95fb306117fadae8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666c6174266c6f676f2d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d6f72616e6765" alt="HTML5" data-canonical-src="https://img.shields.io/badge/HTML5-E34F26?style=flat&amp;logo-square&amp;logo=html5&amp;logoColor=white&amp;labelColor=orange" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f2a69657352dfaa137c16a7f49918729b4a518af295cc15f9720cea02d1b0cb7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666c6174266c6f676f2d737175617265266c6f676f3d63737333266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d326538626366"><img src="https://camo.githubusercontent.com/f2a69657352dfaa137c16a7f49918729b4a518af295cc15f9720cea02d1b0cb7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666c6174266c6f676f2d737175617265266c6f676f3d63737333266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d326538626366" alt="CSS3" data-canonical-src="https://img.shields.io/badge/CSS3-1572B6?style=flat&amp;logo-square&amp;logo=css3&amp;logoColor=white&amp;labelColor=2e8bcf" style="max-width: 100%;"></a>
@@ -33,7 +44,7 @@ Creating my personal portfolio with new ideas. <br>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2f241a4b3768d6e8ae47d70141b5c356e108e35512b22b5ba3b43510e128b13c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536c61636b2d3441313534423f7374796c653d666c6174266c6f676f2d737175617265266c6f676f3d736c61636b266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d373134343731"><img src="https://camo.githubusercontent.com/2f241a4b3768d6e8ae47d70141b5c356e108e35512b22b5ba3b43510e128b13c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536c61636b2d3441313534423f7374796c653d666c6174266c6f676f2d737175617265266c6f676f3d736c61636b266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d373134343731" alt="Slack" data-canonical-src="https://img.shields.io/badge/Slack-4A154B?style=flat&amp;logo-square&amp;logo=slack&amp;logoColor=white&amp;labelColor=714471" style="max-width: 100%;"></a></p>
 
 
-<h3 dir="auto"><a id="user-content--contact-with-me" class="anchor" aria-hidden="true" tabindex="-1" href="#-contact-with-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>🌐 Contact me:</h3>
+<h3 dir="auto"><a id="user-content--contact-me" class="anchor" aria-hidden="true" tabindex="-1" href="#-contact-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>🌐 Contact me:</h3>
 
 <a href="https://www.linkedin.com/in/virginia-alvarezperez/" rel="nofollow"><img src="https://camo.githubusercontent.com/f17ba9730c27e5f1230325b94c8b68bbf3115d32650866f6e3d0ade68201beea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
 
@@ -41,6 +52,3 @@ Creating my personal portfolio with new ideas. <br>
 
 [![](https://visitcount.itsvg.in/api?id=Virginia&label=Profile%20Views&color=3&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Virginia&label=Profile%20Views&color=3&icon=2&pretty=true" />
-</a>
