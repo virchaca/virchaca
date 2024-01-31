@@ -87,7 +87,7 @@ and I learned and adaptated to the sector.
 
 <a target="_blank" href="https://www.linkedin.com/in/virginia-alvarezperez/" rel="nofollow"><img src="./images/linkedin.png" alt="LinkedIn"  style="width: 20px;"></a>
 
-<a target="_blank" href="mailto:virginia.alvarez82@gmail.com"><img src="./images/gmailR.png" alt="Gmail" style="width: 20px;">virginia.alvarez82@gmail.com</a>
+<a target="_blank" href="mailto:virginia.alvarez82@gmail.com"><img src="./images/gmailR.png" alt="Gmail" style="width: 20px;">⇨ virginia.alvarez82@gmail.com</a>
 
 [![](https://visitcount.itsvg.in/api?id=Virginia&label=Profile%20Views&color=3&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
