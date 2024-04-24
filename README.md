@@ -65,48 +65,7 @@ and I learned and adaptated to the sector.
 <img src="./images/ecommerce.png" alt="" style="width: 50px; padding: 10px">
 <img src="./images/react_original_wordmark_logo_icon_146375.png" alt="" style="width: 50px; padding: 10px">
 <img src="./images/swagger.png" alt="" style="width: 30px; padding: 10px">
-<img src="" alt="" style="width: 30px;">
-<img src="" alt="" style="width: 30px;">
-<img src="" alt="" style="width: 30px;">
-<img src="" alt="" style="width: 30px;">
-<img src="" alt="" style="width: 30px;">
-<img src="" alt="" style="width: 30px;">
-<img src="" alt="" style="width: 30px;">
-<img src="" alt="" style="width: 30px;">
-<img src="" alt="" style="width: 30px;">
-<img src="" alt="" style="width: 30px;">
-<img src="" alt="" style="width: 30px;">
-<img src="" alt="" style="width: 30px;">
-<img src="" alt="" style="width: 30px;">
-<img src="" alt="" style="width: 30px;">
-<img src="" alt="" style="width: 30px;"></p>
-
-
-<p class="iconsP" align="center" style="width: 400px; margin: 0 auto;">
-  <img src="./images/canva.png" alt="" style="width: 50px; margin-left: 0px;">
-  <img src="./images/css.png" alt="" style="width: 50px; margin-left: 10px;">
-  <img src="./images/ejs.png" alt="" style="width: 50px; margin-left: 10px;">
-  <img src="./images/git.png" alt="" style="width: 50px; margin-left: 10px;">
-  <img src="./images/github.png" alt="" style="width: 50px; margin-left: 10px;">
-  <img src="./images/html.png" alt="" style="width: 50px; margin-left: 10px;">
-  <img src="./images/js2.png" alt="" style="width: 50px; margin-left: 10px;">
-  <img src="./images/php.png" alt="" style="width: 50px; margin-left: 10px;">
-  <img src="./images/wordpress.png" alt="" style="width: 50px; margin-left: 10px;">
-  <img src="./images/markdown.png" alt="" style="width: 50px; margin-left: 10px;">
-  <img src="./images/mongodb.png" alt="" style="width: 50px; margin-left: 10px;">
-  <img src="./images/mysql.png" alt="" style="width: 50px; margin-left: 10px;">
-  <img src="./images/node.png" alt="" style="width: 50px; margin-left: 10px;">
-  <img src="./images/npm.png" alt="" style="width: 50px; margin-left: 10px;">
-  <img src="./images/postman.png" alt="" style="width: 50px; margin-left: 10px;">
-  <img src="./images/rapidapi.png" alt="" style="width: 50px; margin-left: 10px;">
-  <img src="./images/sass.png" alt="" style="width: 50px; margin-left: 10px;">
-  <img src="./images/slack.png" alt="" style="width: 50px; margin-left: 10px;">
-  <img src="./images/prestashop.png" alt="" style="width: 50px; margin-left: 10px;">
-  <img src="./images/ecommerce.png" alt="" style="width: 50px; margin-left: 10px;">
-  <img src="./images/react_original_wordmark_logo_icon_146375.png" alt="" style="width: 50px; margin-left: 10px;">
-  <img src="./images/swagger.png" alt="" style="width: 30px; margin-left: 10px;">
 </p>
-
 
 
 
