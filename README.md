@@ -1,4 +1,4 @@
-<h1 align="center"> VirginiaAlvarezPerez </h1> 
+<h1 align="center"> Virginia Alvarez Perez </h1> 
 
 
   <h2 align="center"">
@@ -22,7 +22,7 @@
  
 
 
-From Biologist 🍃 to <strong>Junior Full Stack developer!!!</strong> I am looking to **develop** my new **programming skills** through a job where I can find a place 🗺️ to grow and fly 🚀 in the world of technology. <br>
+From Biologist 🍃 to <strong>Junior Web developer!!!</strong> I am looking to **develop** my **programming skills** through a job where I can find a place 🗺️ to grow and fly 🚀 in the world of technology. <br>
 
 <p align="center">
 I moved to <strong>London</strong> without speaking English, and managed to learn the language and work in labs. 🎉
