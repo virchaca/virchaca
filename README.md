@@ -11,8 +11,11 @@
    <a target="_blank" href="https://www.linkedin.com/in/virginia-alvarezperez/" rel="nofollow"><img src="./images/linkedin.png" alt="LinkedIn"  style="width: 30px" style="margin-right: 40px"></a> 
    <span style="width: 30px"> </span>
    <a target="_blank" href="mailto:virginia.alvarez82@gmail.com"><img src="./images/gmailR.png" alt="Gmail" style="width: 30px;"></a>
+  <a style="text-decoration:none" href="https://virchaca.github.io/portfolio/"> <img style="width: 100px" src="https://github.com/user-attachments/assets/542da6b0-1897-4873-bab1-40cf8b45984c"></a> 
+   
  </div>
  <br>
+
  
 
 <!-- <a target="_blank" href="https://virchaca.github.io/portfolio/" style="color: green; text-decoration: none;">VISIT MY PORTFOLIO </a><span>✨</span>
