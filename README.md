@@ -41,7 +41,9 @@ I am looking for a new job where I can <strong>enhance</strong> my <strong>progr
 <p align="center" padding-inline="40px">
 After 5 years in London working in laboratories 🧪 I returned to Spain and became a quality consultant 📊. During this time, I began <strong>teaching myself</strong> web programming 💻 and discovered my <strong>true passion</strong> 💚, so I joined a <strong> intensive web development course</strong> 🤓 to deepen my knowledge and pursue this career. 
 Working in <strong>diverse environments</strong> 🌍 has equipped me with <strong>adaptability</strong> 🔄, a <strong>drive to overcome challenges</strong> 🚀, and <strong>strong self-learning skills</strong> ✏️.
-I am now eager to <strong>grow as a web programmer</strong> ✔️ and contribute to <strong>impactful projects</strong>🪄. 
+I am now eager to <strong>grow as a web programmer</strong> ✔️ and contribute to <strong>impactful projects</strong>🪄.</p> 
+
+<p align="center">
 I speak fluent <strong>English</strong> 💂‍♀️  and conversational <strong>French</strong> 🧀🗼.
 </p>
 
