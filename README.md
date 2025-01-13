@@ -64,6 +64,7 @@ I speak fluent <strong>English</strong> 💂‍♀️  and conversational <stron
 <img src="./images/js2.png" alt="" style="width: 50px; padding: 10px">
 <img src="./images/mysql.png" alt="" style="width: 50px; padding: 10px">
 <img src="./images/react_original_wordmark_logo_icon_146375.png" alt="" style="width: 50px; padding: 10px">
+<img src="./images/filezilla.png" alt="" style="width: 50px; padding: 10px">
 <img src="./images/html.png" alt="" style="width: 50px; padding: 10px">
 <img src="./images/css.png" alt="" style="width: 50px; padding: 10px">
 <img src="./images/sass.png" alt="" style="width: 50px; padding: 10px">
