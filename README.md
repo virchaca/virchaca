@@ -9,10 +9,8 @@
 
  <div>
    <a target="_blank" href="https://www.linkedin.com/in/virginia-alvarezperez/" rel="nofollow"><img src="./images/linkedin.png" alt="LinkedIn"  style="width: 30px" style="margin-right: 40px"></a> 
-   <span style="width: 30px"> </span>
    <a target="_blank" href="mailto:virginia.alvarez82@gmail.com"><img src="./images/gmailR.png" alt="Gmail" style="width: 30px;"></a>
-  <a style="text-decoration:none" href="https://virchaca.github.io/portfolio/"> <img style="width: 100px" src="https://github.com/user-attachments/assets/542da6b0-1897-4873-bab1-40cf8b45984c"></a> 
-   
+   <a target="_blank" href="https://virchaca.github.io/portfolio/"> <img style="width: 100px" src="https://github.com/user-attachments/assets/542da6b0-1897-4873-bab1-40cf8b45984c"></a>    
  </div>
  <br>
 
@@ -31,8 +29,14 @@
 </div> -->
  
 
-
-<strong>Junior Web developer</strong> and <strong>Biologist </strong> 🍃 !!! I am looking to **develop** my **programming skills** through a job where I can find a place 🗺️ to grow and fly 🚀 in the world of technology. <br>
+<div align="center">
+<strong>Junior Web developer</strong> and Biologist 🍃  with <strong>one year of experience as a Junior Backend Developer</strong>!!! 
+</div>
+<br>
+<div align="center">
+I am looking for a new job where I can <strong>enhance</strong> my <strong>programming skills</strong>, a role where I can grow and thrive 🚀 in the world of technology. 
+</div>
+<br>
 
 <p align="center" padding-inline="40px">
 After 5 years in London working in laboratories 🧪 I returned to Spain and became a quality consultant 📊. During this time, I began <strong>teaching myself</strong> web programming 💻 and discovered my <strong>true passion</strong> 💚, so I joined a <strong> intensive web development course</strong> 🤓 to deepen my knowledge and pursue this career. 
@@ -44,9 +48,9 @@ I speak fluent <strong>English</strong> 💂‍♀️  and conversational <stron
 
 <h3>🗓️ My day to day: </h3>
 
-- In active search of my opportunity in the TECH world 🔍 
-- Enhance my knowledge and improve my coding skills using online resources. 🧠 
-- Learn new languages, frameworks and technologies in web development. 🦾
+- Actively searching for my opportunity in the TECH world 🔍 
+- Enhancing my knowledge and improving my coding skills using online resources  🧠 
+- Learning new languages, frameworks and technologies in web development. 🦾
  
 <br>
 
