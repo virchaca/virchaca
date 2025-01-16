@@ -72,7 +72,6 @@ I speak fluent <strong>English</strong> 💂‍♀️  and conversational <stron
 <img src="./images/sass.png" alt="" style="width: 50px; padding: 10px">
 <img src="./images/ejs.png" alt="" style="width: 50px; padding: 10px">
 <img src="./images/swagger.png" alt="" style="width: 30px; padding: 10px">
-<img src="./images/mongodb.png" alt="" style="width: 50px; padding: 10px">
 <img src="./images/wordpress.png" alt="" style="width: 50px; padding: 10px">
 <img src="./images/npm.png" alt="" style="width: 50px; padding: 10px">
 <img src="./images/node.png" alt="" style="width: 50px; padding: 10px">
@@ -80,10 +79,8 @@ I speak fluent <strong>English</strong> 💂‍♀️  and conversational <stron
 <img src="./images/markdown.png" alt="" style="width: 50px; padding: 10px">
 <img src="./images/rapidapi.png" alt="" style="width: 50px; padding: 10px">
 <img src="./images/slack.png" alt="" style="width: 50px; padding: 10px">
-<img src="./images/prestashop.png" alt="" style="width: 50px; color: green; padding: 10px">
 <img src="./images/vimeo.png" alt="" style="width: 30px; padding: 10px">
 <img src="./images/canva.png" alt="" style="width: 50px; padding: 10px"> 
-<img src="./images/ecommerce.png" alt="" style="width: 50px; padding: 10px">
 </div>
 
 
