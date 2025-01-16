@@ -59,28 +59,31 @@ I speak fluent <strong>English</strong> 💂‍♀️  and conversational <stron
 <h3>💻 Technologies:</h3>
 
 <div align="center" style="padding-inline: 80px; margin: 20px"> 
-<img src="./images/git.png" alt="" style="width: 50px; padding: 10px">
-<img src="./images/github.png" alt="" style="width: 50px; padding: 10px">
-<img src="./images/php.png" alt="" style="width: 50px; padding: 10px">
-<img src="./images/laravel.png" alt="" style="width: 30px; padding: 10px">
-<img src="./images/js2.png" alt="" style="width: 50px; padding: 10px">
-<img src="./images/mysql.png" alt="" style="width: 50px; padding: 10px">
-<img src="./images/react_original_wordmark_logo_icon_146375.png" alt="" style="width: 50px; padding: 10px">
-<img src="./images/filezilla.png" alt="" style="width: 50px; padding: 10px">
-<img src="./images/html.png" alt="" style="width: 50px; padding: 10px">
-<img src="./images/css.png" alt="" style="width: 50px; padding: 10px">
-<img src="./images/sass.png" alt="" style="width: 50px; padding: 10px">
-<img src="./images/ejs.png" alt="" style="width: 50px; padding: 10px">
-<img src="./images/swagger.png" alt="" style="width: 30px; padding: 10px">
-<img src="./images/wordpress.png" alt="" style="width: 50px; padding: 10px">
-<img src="./images/npm.png" alt="" style="width: 50px; padding: 10px">
-<img src="./images/node.png" alt="" style="width: 50px; padding: 10px">
-<img src="./images/postman.png" alt="" style="width: 50px; padding: 10px">
-<img src="./images/markdown.png" alt="" style="width: 50px; padding: 10px">
-<img src="./images/rapidapi.png" alt="" style="width: 50px; padding: 10px">
-<img src="./images/slack.png" alt="" style="width: 50px; padding: 10px">
-<img src="./images/vimeo.png" alt="" style="width: 30px; padding: 10px">
-<img src="./images/canva.png" alt="" style="width: 50px; padding: 10px"> 
+  <img src="./images/git.png" alt="" style="width: 50px; padding: 10px">
+  <img src="./images/github.png" alt="" style="width: 50px; padding: 10px">
+  <img src="./images/php.png" alt="" style="width: 50px; padding: 10px">
+  <img src="./images/laravel.png" alt="" style="width: 30px; padding: 10px">
+  <img src="./images/js2.png" alt="" style="width: 50px; padding: 10px">
+  <img src="./images/mysql.png" alt="" style="width: 50px; padding: 10px">
+  <img src="./images/react_original_wordmark_logo_icon_146375.png" alt="" style="width: 50px; padding: 10px">
+  <img src="./images/filezilla.png" alt="" style="width: 50px; padding: 10px">
+  <img src="./images/html.png" alt="" style="width: 50px; padding: 10px">
+  <img src="./images/css.png" alt="" style="width: 50px; padding: 10px">
+  <img src="./images/sass.png" alt="" style="width: 50px; padding: 10px">
+</div>
+
+<div align="center" style="padding-inline: 80px; margin: 20px"> 
+  <img src="./images/ejs.png" alt="" style="width: 50px; padding: 10px">
+  <img src="./images/swagger.png" alt="" style="width: 30px; padding: 10px">
+  <img src="./images/wordpress.png" alt="" style="width: 50px; padding: 10px">
+  <img src="./images/npm.png" alt="" style="width: 50px; padding: 10px">
+  <img src="./images/node.png" alt="" style="width: 50px; padding: 10px">
+  <img src="./images/postman.png" alt="" style="width: 50px; padding: 10px">
+  <img src="./images/markdown.png" alt="" style="width: 50px; padding: 10px">
+  <img src="./images/rapidapi.png" alt="" style="width: 50px; padding: 10px">
+  <img src="./images/slack.png" alt="" style="width: 50px; padding: 10px">
+  <img src="./images/vimeo.png" alt="" style="width: 30px; padding: 10px">
+  <img src="./images/canva.png" alt="" style="width: 50px; padding: 10px"> 
 </div>
 
 
