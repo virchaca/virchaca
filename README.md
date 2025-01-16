@@ -59,8 +59,8 @@ I speak fluent <strong>English</strong> 💂‍♀️  and conversational <stron
 <h3>💻 Technologies:</h3>
 
 <div align="center" style="padding-inline: 80px; margin: 20px"> 
-  <img src="./images/git.png" alt="" style="width: 50px; padding: 10px">
-  <img src="./images/github.png" alt="" style="width: 50px; padding: 10px">
+  <img src="./images/git.png" alt="" style="width: 50px; padding: 10px"/>
+  <img src="./images/github.png" alt="" style="width: 50px; padding: 10px"/>
   <img src="./images/php.png" alt="" style="width: 50px; padding: 10px">
   <img src="./images/laravel.png" alt="" style="width: 30px; padding: 10px">
   <img src="./images/js2.png" alt="" style="width: 50px; padding: 10px">
@@ -71,6 +71,8 @@ I speak fluent <strong>English</strong> 💂‍♀️  and conversational <stron
   <img src="./images/css.png" alt="" style="width: 50px; padding: 10px">
   <img src="./images/sass.png" alt="" style="width: 50px; padding: 10px">
 </div>
+
+<br>
 
 <div align="center" style="padding-inline: 80px; margin: 20px"> 
   <img src="./images/ejs.png" alt="" style="width: 50px; padding: 10px">
