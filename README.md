@@ -59,33 +59,33 @@ I speak fluent <strong>English</strong> 💂‍♀️  and conversational <stron
 <h3>💻 Technologies:</h3>
 
 <div align="center" style="padding-inline: 80px; margin: 20px"> 
-  <img src="./images/git.png" alt="" style="width: 50px; padding: 10px"/>
-  <img src="./images/github.png" alt="" style="width: 50px; padding: 10px"/>
-  <img src="./images/php.png" alt="" style="width: 50px; padding: 10px">
-  <img src="./images/laravel.png" alt="" style="width: 30px; padding: 10px">
-  <img src="./images/js2.png" alt="" style="width: 50px; padding: 10px">
-  <img src="./images/mysql.png" alt="" style="width: 50px; padding: 10px">
-  <img src="./images/react_original_wordmark_logo_icon_146375.png" alt="" style="width: 50px; padding: 10px">
-  <img src="./images/filezilla.png" alt="" style="width: 50px; padding: 10px">
-  <img src="./images/html.png" alt="" style="width: 50px; padding: 10px">
-  <img src="./images/css.png" alt="" style="width: 50px; padding: 10px">
-  <img src="./images/sass.png" alt="" style="width: 50px; padding: 10px">
+  <img src="./images/git.png" alt="git" style="width: 50px; padding: 10px"/>
+  <img src="./images/github.png" alt="github" style="width: 50px; padding: 10px"/>
+  <img src="./images/php.png" alt="php" style="width: 50px; padding: 10px">
+  <img src="./images/laravel.png" alt="laravel" style="width: 30px; padding: 10px">
+  <img src="./images/js2.png" alt="javascript" style="width: 50px; padding: 10px">
+  <img src="./images/mysql.png" alt="mysql" style="width: 50px; padding: 10px">
+  <img src="./images/react_original_wordmark_logo_icon_146375.png" alt="react" style="width: 50px; padding: 10px">
+  <img src="./images/filezilla.png" alt="filezilla" style="width: 50px; padding: 10px">
+  <img src="./images/html.png" alt="html" style="width: 50px; padding: 10px">
+  <img src="./images/css.png" alt="css" style="width: 50px; padding: 10px">
+  <img src="./images/sass.png" alt="sass" style="width: 50px; padding: 10px">
 </div>
 
 <br>
 
 <div align="center" style="padding-inline: 80px; margin: 20px"> 
-  <img src="./images/ejs.png" alt="" style="width: 50px; padding: 10px">
-  <img src="./images/swagger.png" alt="" style="width: 30px; padding: 10px">
-  <img src="./images/wordpress.png" alt="" style="width: 50px; padding: 10px">
-  <img src="./images/npm.png" alt="" style="width: 50px; padding: 10px">
-  <img src="./images/node.png" alt="" style="width: 50px; padding: 10px">
-  <img src="./images/postman.png" alt="" style="width: 50px; padding: 10px">
-  <img src="./images/markdown.png" alt="" style="width: 50px; padding: 10px">
-  <img src="./images/rapidapi.png" alt="" style="width: 50px; padding: 10px">
-  <img src="./images/slack.png" alt="" style="width: 50px; padding: 10px">
-  <img src="./images/vimeo.png" alt="" style="width: 30px; padding: 10px">
-  <img src="./images/canva.png" alt="" style="width: 50px; padding: 10px"> 
+  <img src="./images/ejs.png" alt="ejs" style="width: 50px; padding: 10px">
+  <img src="./images/swagger.png" alt="swagger" style="width: 30px; padding: 10px">
+  <img src="./images/wordpress.png" alt="wordpress" style="width: 50px; padding: 10px">
+  <img src="./images/npm.png" alt="npm" style="width: 50px; padding: 10px">
+  <img src="./images/node.png" alt="node" style="width: 50px; padding: 10px">
+  <img src="./images/postman.png" alt="postman" style="width: 50px; padding: 10px">
+  <img src="./images/markdown.png" alt="markdown" style="width: 50px; padding: 10px">
+  <img src="./images/rapidapi.png" alt="rapidapi" style="width: 50px; padding: 10px">
+  <img src="./images/slack.png" alt="slack" style="width: 50px; padding: 10px">
+  <img src="./images/vimeo.png" alt="vimeo" style="width: 30px; padding: 10px">
+  <img src="./images/canva.png" alt="cabva" style="width: 50px; padding: 10px"> 
 </div>
 
 
