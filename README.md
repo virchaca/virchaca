@@ -1,9 +1,6 @@
 <h1 align="center"> Virginia Alvarez Perez </h1> 
 
 
-<a href="https://www.contadorvisitasgratis.com" title="contador web"><img src="https://counter6.optistats.ovh/private/contadorvisitasgratis.php?c=epsee46gt7zwktj26ddxwds6tedu7efr" border="0" title="contador web" alt="contador web"></a>
-
-
   <!-- <h2 align="center""> ** 🏜️ HI THERE!😎 **  </h2>-->
  
   <p align="center" >
@@ -109,3 +106,4 @@ I speak fluent <strong>English</strong> 💂‍♀️  and conversational <stron
 <p align="right">
   <img src="https://github.com/virchaca/virchaca/assets/139872250/d04701cd-2bb9-4752-8c8d-15f92d3fdb46" alt="funnyProgrammer">
 </p> -->
+<a href="https://www.contadorvisitasgratis.com" title="contador web"><img src="https://counter6.optistats.ovh/private/contadorvisitasgratis.php?c=epsee46gt7zwktj26ddxwds6tedu7efr" border="0" title="contador web" alt="contador web"></a>
