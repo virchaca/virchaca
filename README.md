@@ -93,7 +93,6 @@ I speak fluent <strong>English</strong> 💂‍♀️  and conversational <stron
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/virchaca/virchaca&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitas&edge_flat=false) 
 
-![Visitas](https://img.shields.io/badge/dynamic/json?color=blue&label=Visitas&query=value&url=https://api.countapi.xyz/hit/TU-USUARIO-TU-REPO)
 
 
 <!--<h3> 🌐 Contact me:</h3>
@@ -101,7 +100,6 @@ I speak fluent <strong>English</strong> 💂‍♀️  and conversational <stron
 ####  🌐 Contact me on: <a target="_blank" href="https://www.linkedin.com/in/virginia-alvarezperez/" rel="nofollow"><img src="./images/linkedin.png" alt="LinkedIn"  style="width: 30px;"></a> <span> or </span> <a target="_blank" href="mailto:virginia.alvarez82@gmail.com"><img src="./images/gmailR.png" alt="Gmail" style="width: 20px;"></a>
 <a target="_blank" href="mailto:virginia.alvarez82@gmail.com" color="green" text-decoration="none"><img src="./images/gmailR.png" alt="Gmail" style="width: 20px;"> virginia.alvarez82@gmail.com</a>-->
 
-[![](https://visitcount.itsvg.in/api?id=virchaca&label=Profile%20Views&color=3&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 
 
@@ -109,5 +107,4 @@ I speak fluent <strong>English</strong> 💂‍♀️  and conversational <stron
 <p align="right">
   <img src="https://github.com/virchaca/virchaca/assets/139872250/d04701cd-2bb9-4752-8c8d-15f92d3fdb46" alt="funnyProgrammer">
 </p> -->
-![Contador de visitas](https://counter6.optistats.ovh/private/contadorvisitasgratis.php?c=epsee46gt7zwktj26ddxwds6tedu7efr)
 
