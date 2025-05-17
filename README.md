@@ -30,7 +30,7 @@
  
 
 <div align="center">
-<strong>Junior Web developer</strong> and Biologist 🍃  with <strong>one year of experience as a Junior Backend Developer</strong>!!! 
+<strong>Junior Web developer</strong> and Biologist 🍃!!! 
 </div>
 <br>
 <div align="center">
@@ -39,7 +39,7 @@ I am looking for a new job where I can <strong>enhance</strong> my <strong>progr
 <br>
 
 <p align="center" padding-inline="40px">
-After 5 years in London working in laboratories 🧪 I returned to Spain and became a quality consultant 📊. During this time, I began <strong>teaching myself</strong> web programming 💻 and discovered my <strong>true passion</strong> 💚, so I joined a <strong> intensive web development course</strong> 🤓 to deepen my knowledge and pursue this career. 
+After 5 years in London working in laboratories 🧪 I returned to Spain and worked as a quality consultant 📊. During this time, I began <strong>teaching myself</strong> web programming 💻 and discovered my <strong>true passion</strong> 💚, so I joined a <strong> intensive web development trainning</strong> 🤓 to deepen my knowledge and pursue this career. 
 Working in <strong>diverse environments</strong> 🌍 has equipped me with <strong>adaptability</strong> 🔄, a <strong>drive to overcome challenges</strong> 🚀, and <strong>strong self-learning skills</strong> ✏️.
 I am now eager to <strong>grow as a web programmer</strong> ✔️ and contribute to <strong>impactful projects</strong>🪄.</p> 
 
